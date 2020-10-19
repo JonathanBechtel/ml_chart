@@ -1,0 +1,33 @@
+﻿Technique,Data Source,Target Variable,Prediction Type,Family,Description
+Random Forest Classification,1,1,0,Tree Based Ensemble,A nice description
+Random Forest Regression,1,1,1,Tree Based Ensemble,A nice description
+Recurrent Neural Network,0.5,1,0.5,Neural Networks,A nice description
+Convolutional Neural Network,0,1,0,Neural Networks,A nice description
+Variational Autoencoder,0.5,0,-1,Neural Networks,A nice description
+Self Organizaing Map,0,0,-1,Neural Networks,A nice description
+Linear Regression,1,1,1,Linear Model,A nice description
+Logistic Regression,1,1,0,Linear Model,A nice description
+Support Vector Classifier,1,1,0,Support Vector Machine,A nice description
+Support Vector Regressor,1,1,1,Support Vector Machine,A nice description
+t-SNE,0.5,0,-1,Clustering,A nice description
+Kmeans Clustering,0.5,0,-1,Clustering,A nice description
+Hierarchical Clustering,1,0,-1,Clustering,A nice description
+Gradient Boosting Classifier,1,1,0,Tree Based Ensemble,A nice description
+AdaBoost Classifier,1,1,0,Tree Based Ensemble,A nice description
+AdaBoost Regressor,1,1,1,Tree Based Ensemble,A nice description
+Gradient Boosting Regressor,1,1,1,Tree Based Ensemble,A nice description
+KNN Classification,0.5,0.5,0,Nearest Neighbor,A nice description
+Nearest Neighbors,0.5,0.5,-1,Nearest Neighbor,A nice description
+KNN Regression,0.5,0.5,1,Nearest Neighbor,A nice description
+Mixture Models,1,0,-1,Clustering,A nice description
+Naïve Bayes,1,1,0,Other,A nice description
+Hidden Markov Models,1,1,1,Other,A nice description
+PCA,0.5,0,-1,PCA,A nice description
+Decision Tree Regressor,1,1,1,Decision Tree,A nice description
+Decision Tree Classifier,1,1,0,Decision Tree,A nice description
+Histogram Gradient Regressor,1,1,1,Tree Based Ensemble,A nice description
+Histogram Gradient Classifier,1,1,0,Tree Based Ensemble,A nice description
+Robust PCA,0.5,0,-1,PCA,A nice description
+Incremental PCA,0.5,0,-1,PCA,A nice description
+ARIMA,1,1,1,Time Series,A nice description
+Exponential Smoothing,1,1,1,Time Series,A nice description
